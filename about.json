@@ -1,0 +1,25 @@
+{
+  "name": "Ruby On Rails Theme",
+  "component": false,
+  "license_url": "https://github.com/jordanvidrine/rubyOnRails-discourse-theme/blob/master/LICENSE",
+  "about_url": "",
+  "authors": "Jordan Vidrine",
+  "theme_version": "1.0",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "color_schemes": {
+    "So On Brand": {
+      "primary": "000000",
+      "secondary": "fffff",
+      "tertiary": "6356C7",
+      "quaternary": "365EC9",
+      "header_background": "ffffff",
+      "header_primary": "000000",
+      "highlight": "FFFF00",
+      "danger": "ff5555",
+      "success": "83FFCD",
+      "love": "ff79c6"
+    }
+  },
+  "learn_more": "https://github.com/jordanvidrine/rubyOnRails-discourse-theme"
+}
