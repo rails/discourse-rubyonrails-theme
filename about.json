@@ -8,17 +8,17 @@
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "color_schemes": {
-    "So On Brand": {
+    "Rails": {
       "primary": "000000",
       "secondary": "fffff",
-      "tertiary": "6356C7",
-      "quaternary": "365EC9",
+      "tertiary": "CC0000",
+      "quaternary": "CC0000",
       "header_background": "ffffff",
-      "header_primary": "000000",
-      "highlight": "FFFF00",
-      "danger": "ff5555",
-      "success": "83FFCD",
-      "love": "ff79c6"
+      "header_primary": "CC0000",
+      "highlight": "FFCC00",
+      "danger": "FF9999",
+      "success": "99CC33",
+      "love": "CC0000"
     }
   },
   "learn_more": "https://github.com/jordanvidrine/rubyOnRails-discourse-theme"

@@ -1,0 +1,91 @@
+html {
+  font-family: Georgia, serif;
+}
+
+// a {
+//   color: $primary;
+// }
+
+.custom-header-links {
+  margin-left: 2em !important;
+  .headerLink {
+    a {
+      padding: 0px !important;
+      margin-right: 22px;
+      color: $tertiary;
+      font-size: 13px !important;
+      font-family: Georgia, serif;
+      font-weight: bold;
+      border-bottom: 2px solid $tertiary;
+      padding-bottom: 1px !important;
+    }
+    a:hover {
+      color: $primary;
+      border-bottom: 2px solid $primary;
+    }
+  }
+}
+
+.d-header {
+  box-shadow: none;
+}
+
+.d-header-icons .d-icon {
+  color: $tertiary;
+}
+
+.d-header-icons .icon:hover .d-icon, .d-header-icons .icon:focus {
+  color: $tertiary-medium;
+}
+
+.user-menu .quick-access-panel li a {
+  color: $tertiary;
+}
+
+.menu-panel li a.widget-link, .menu-panel li.heading a.widget-link {
+  color: $tertiary;
+}
+
+.badge-wrapper.bullet span.badge-category {
+  color: $tertiary;
+}
+
+.badge-wrapper .badge-category .category-name {
+  font-weight: normal;
+}
+
+.user-menu .quick-access-panel li {
+  background-color: $primary-low;
+}
+
+.nav-pills > li > a {
+  border-radius: 8px;
+}
+
+.nav-pills > li a.active {
+  box-shadow: 0px 3px  0px $danger;
+}
+
+.topic-list-main-link a.title,
+.topic-list .main-link a.title,
+.latest-topic-list-item .main-link a.title {
+  font-weight: bold;
+}
+
+.topic-list-item.visited a.title:not(.badge-notification),
+.latest-topic-list-item.visited a.title:not(.badge-notification),
+.category-topic-link.visited a.title:not(.badge-notification) {
+  font-weight: normal;
+}
+
+input[type="text"]:focus,input[type="password"]:focus
+,input[type="datetime"]:focus, input[type="datetime-local"]:focus,
+input[type="date"]:focus, input[type="month"]:focus,
+input[type="time"]:focus, input[type="week"]:focus,
+input[type="number"]:focus, input[type="email"]:focus,
+input[type="url"]:focus, input[type="search"]:focus,
+input[type="tel"]:focus, input[type="color"]:focus,
+textarea:focus {
+  border: 2px solid $primary;
+  box-shadow: none;
+}
