@@ -1,7 +1,7 @@
 # Discourse Theme for Ruby on Rails
 **Preview**
 
-<img src="https://i.ibb.co/17Q4Nzf/Screenshot-2020-03-02-Trial-Project-1.png" alt="Screenshot-2020-03-02-Trial-Project-1" width="50%" />
+<img src="https://i.ibb.co/jkp6RH2/Screenshot-2020-03-02-Trial-Project-3.png" alt="Screenshot-2020-03-02-Trial-Project-1" width="50%" />
 
 **PLEASE NOTE:** This theme requires the installation of the [custom-header-links component.](https://meta.discourse.org/t/custom-header-links/90588.)
 
