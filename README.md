@@ -1,9 +1,9 @@
 # Discourse Theme for Ruby on Rails
-This theme requires the installation of the [custom-header-links component.](https://meta.discourse.org/t/custom-header-links/90588.)
-
 **Preview**
 
 <img src="https://i.ibb.co/17Q4Nzf/Screenshot-2020-03-02-Trial-Project-1.png" alt="Screenshot-2020-03-02-Trial-Project-1" width="50%" />
+
+**PLEASE NOTE:** This theme requires the installation of the [custom-header-links component.](https://meta.discourse.org/t/custom-header-links/90588.)
 
 Instructions for installing a theme-component can be found [here](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682).
 
