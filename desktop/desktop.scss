@@ -70,3 +70,26 @@
 .mobile-view .vdo {
   display: none !important;
 }
+
+@if $links_position == left {
+  .custom-header-links {
+    margin-left: 1em;
+  }
+  .hide-menus {
+    .custom-header-links {
+      display: none;
+    }
+  }
+}
+
+.d-header {
+  height: 85px;
+  #site-logo {
+  width: 180px;
+  height: auto;
+  }
+}
+
+#main-outlet {
+  padding-top: 120px;
+}

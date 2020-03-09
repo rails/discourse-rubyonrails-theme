@@ -1,0 +1,27 @@
+.d-header {
+  #site-logo {
+  height: 2.4em;
+  width: auto;
+  }
+}
+
+#list-area {
+  margin-bottom: 50px;
+}
+
+.custom-footer {
+  font-family: Georgia, serif;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  p {
+    text-align: center;
+  }
+  img {
+    width: 200px;
+  }
+}

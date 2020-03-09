@@ -43,16 +43,13 @@
   box-shadow: 0px 3px  0px $danger;
 }
 
-.topic-list-main-link a.title,
-.topic-list .main-link a.title,
-.latest-topic-list-item .main-link a.title {
-  font-size: $font-up-1;
+.unseen-topic {
+  font-size: 1.1em;
 }
 
 .topic-list-item.visited a.title:not(.badge-notification),
 .latest-topic-list-item.visited a.title:not(.badge-notification),
 .category-topic-link.visited a.title:not(.badge-notification) {
-  font-size: 1.1487em;
   font-weight: normal;
 }
 

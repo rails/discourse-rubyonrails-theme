@@ -1,3 +1,14 @@
 Custom_header_links:
   type: list
   default: "Blog, Link to Blog, https://weblog.rubyonrails.org/, vdo, blank, remove|Guides, Link to Guides, https://guides.rubyonrails.org/, vdo, blank, remove|API, Link to API, https://api.rubyonrails.org/, vdo, blank, remove|Ask for help, Link to Stack Overflow, https://stackoverflow.com/questions/tagged/ruby-on-rails, vdo, blank, remove"
+  description:
+    en: "Comma delimited in this order: link text, link title, URL, view, target, hide on scroll<br><b>Link text:</b> The text for the link<br><b>Link title:</b> the text that shows when the link is hovered<br><b>URL:</b> The path for the link (can be relative)<br><b>View:</b> vdm = desktop and mobile, vdo = desktop only, vmo = mobile only<br><b>Target:</b> blank = opens in a new tab, self = opens in the same tab<br><b>Hide on scroll:</b> remove = hides the link when the title is expanded on topic pages keep = keeps the link visible even when the title is visible on topic pages"
+
+links_position:
+  default: left
+  type: enum
+  choices:
+    - right
+    - left
+  description: 
+    en: "Note that when links are displayed on the left, they're automatically hidden while scrolling within topics to make room for the title"
