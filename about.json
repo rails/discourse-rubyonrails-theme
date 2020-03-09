@@ -11,6 +11,7 @@
     "rails-logo":"/assets/rails-logo.svg",
     "rails-logo-small": "/assets/rails-logo-small.svg"
   },
+  "components":["https://github.com/discourse/discourse-custom-header-links"],
   "color_schemes": {
     "Rails": {
       "primary": "000000",
