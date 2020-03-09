@@ -1,0 +1,3 @@
+Custom_header_links:
+  type: list
+  default: "Blog, Link to Blog, https://weblog.rubyonrails.org/, vdo, blank, remove|Guides, Link to Guides, https://guides.rubyonrails.org/, vdo, blank, remove|API, Link to API, https://api.rubyonrails.org/, vdo, blank, remove|Ask for help, Link to Stack Overflow, https://stackoverflow.com/questions/tagged/ruby-on-rails, vdo, blank, remove"
