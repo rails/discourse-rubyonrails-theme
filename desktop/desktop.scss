@@ -1,0 +1,21 @@
+.custom-footer {
+  font-family: Georgia, serif;
+  font-size: $font-up-2;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  img {
+    width: 250px;
+  }
+}
+
+.groups-boxes {
+  margin-bottom: 50px;
+}
+
+#list-area {
+  margin-bottom: 75px;
+}

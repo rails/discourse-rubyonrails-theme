@@ -1,7 +1,3 @@
-// html {
-//   font-family: Georgia, serif;
-// }
-
 .custom-header-links {
   margin-left: 2em !important;
   .headerLink {
@@ -20,6 +16,10 @@
       border-bottom: 2px solid $primary;
     }
   }
+}
+
+.btn {
+  border-radius: 8px;
 }
 
 .d-header {
@@ -66,12 +66,13 @@
 .topic-list-main-link a.title,
 .topic-list .main-link a.title,
 .latest-topic-list-item .main-link a.title {
-  font-weight: bold;
+  font-size: $font-up-1;
 }
 
 .topic-list-item.visited a.title:not(.badge-notification),
 .latest-topic-list-item.visited a.title:not(.badge-notification),
 .category-topic-link.visited a.title:not(.badge-notification) {
+  font-size: 1.1487em;
   font-weight: normal;
 }
 
