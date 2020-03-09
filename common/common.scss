@@ -1,9 +1,5 @@
-html {
-  font-family: Georgia, serif;
-}
-
-// a {
-//   color: $primary;
+// html {
+//   font-family: Georgia, serif;
 // }
 
 .custom-header-links {
@@ -60,6 +56,7 @@ html {
 
 .nav-pills > li > a {
   border-radius: 8px;
+  margin-right: 5px;
 }
 
 .nav-pills > li a.active {

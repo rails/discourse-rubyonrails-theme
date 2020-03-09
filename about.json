@@ -7,6 +7,10 @@
   "theme_version": "1.0",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
+  "assets": {
+    "rails-logo":"/assets/rails-logo.svg",
+    "rails-logo-small": "/assets/rails-logo-small.svg"
+  },
   "color_schemes": {
     "Rails": {
       "primary": "000000",
