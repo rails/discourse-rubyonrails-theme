@@ -84,9 +84,13 @@
 
 .d-header {
   height: 85px;
-  #site-logo {
-  width: 180px;
-  height: auto;
+  #site-logo.logo-big {
+    width: 150px;
+    height: auto;
+  }
+  #site-logo.logo-small {
+    width: 52px;
+    height: auto;
   }
 }
 
